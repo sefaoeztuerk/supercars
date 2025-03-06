@@ -35,9 +35,9 @@ const cars: Car[] = [
       },
     },
     {
-      name: "Tesla",
-      type: "Model Y",
-      color: "Red",
+      name: "Rolls Royce",
+      type: "Cullinan",
+      color: "black",
       motor: {
         serialNumber: 1121,
         hp: 450,
